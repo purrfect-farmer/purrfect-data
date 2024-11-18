@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Paws",
+    "icon": "paws",
+    "telegramLink": "https://t.me/PAWSOG_bot/PAWS?startapp=5MwPEyav"
+  },
+  {
+    "title": "W-Coin",
+    "icon": "w-coin",
+    "telegramLink": "https://t.me/wcoin_tapbot?start=MTE0NzI2NTI5MA==",
+    "miniAppUrl": "https://app.w-coin.io",
+    "shouldClickLaunchButton": true
+  },
+  {
+    "title": "Sidekick Fans",
+    "icon": "sidekick",
+    "telegramLink": "https://t.me/sidekick_fans_bot?start=1147265290",
+    "miniAppUrl": "https://game.sidekick.fans",
+    "shouldClickLaunchButton": true
+  },
+  {
+    "title": "Units Wallet",
+    "icon": "units",
+    "telegramLink": "https://t.me/UnitsWallet_bot/UnitsWallet?startapp=0x48a0C00214b40d95Bb60f2eC8cd8d1e7B5a7b45E"
+  },
+  {
+    "title": "DuckChain",
+    "icon": "duck-chain",
+    "telegramLink": "https://t.me/DuckChain_bot/quack?startapp=egJgBrxV"
+  },
+  {
+    "title": "Seed",
+    "icon": "seed",
+    "telegramLink": "https://t.me/seed_coin_bot/app?startapp=1147265290"
+  },
+  {
+    "title": "Tada",
+    "icon": "tada",
+    "telegramLink": "https://t.me/TADA_Ride_Bot/join?startapp=ref_lUIJ4eM-AV"
+  }
+]
