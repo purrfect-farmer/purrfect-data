@@ -1,5 +1,10 @@
 [
   {
+    "title": "Telegram Apps Center",
+    "icon": "tapps",
+    "telegramLink": "https://t.me/tapps/app?startapp=ref_1_851090"
+  },
+  {
     "title": "Paws",
     "icon": "paws",
     "telegramLink": "https://t.me/PAWSOG_bot/PAWS?startapp=5MwPEyav"
