@@ -1,5 +1,10 @@
 [
   {
+    "title": "Dogs",
+    "icon": "dogs",
+    "telegramLink": "https://t.me/dogshouse_bot/join?startapp=QN6QktyfSoaX31IG55A0jA"
+  },
+  {
     "title": "Apps Center",
     "icon": "tapps",
     "telegramLink": "https://t.me/tapps/app?startapp=ref_1_851090"
