@@ -1,5 +1,10 @@
 [
   {
+    "title": "Unicoin App",
+    "icon": "unicoin",
+    "telegramLink": "https://t.me/UniCoinApp_bot?start=ref_29590283"
+  },
+  {
     "title": "Caps",
     "icon": "caps",
     "telegramLink": "https://t.me/DurovCapsBot/caps?startapp=1147265290"
