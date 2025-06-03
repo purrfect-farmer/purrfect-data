@@ -1,5 +1,10 @@
 [
   {
+    "id": "voxel",
+    "title": "Voxel",
+    "telegramLink": "https://t.me/voxel_verse_bot/app?startapp=1147265290"
+  },
+  {
     "id": "unicoin",
     "title": "Unicoin App",
     "telegramLink": "https://t.me/UniCoinApp_bot?start=ref_29590283"
@@ -25,19 +30,9 @@
     "telegramLink": "https://t.me/tapps/app?startapp=ref_1_851090"
   },
   {
-    "id": "paws",
-    "title": "Paws",
-    "telegramLink": "https://t.me/PAWSOG_bot/PAWS?startapp=5MwPEyav"
-  },
-  {
     "id": "w-coin",
     "title": "W-Coin",
     "telegramLink": "https://t.me/wcoin_tapbot?start=MTE0NzI2NTI5MA=="
-  },
-  {
-    "id": "sidekick",
-    "title": "Sidekick Fans",
-    "telegramLink": "https://t.me/sidekick_fans_bot?start=1147265290"
   },
   {
     "id": "units",
