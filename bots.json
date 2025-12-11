@@ -1,33 +1,8 @@
 [
   {
-    "id": "4-seasons-farm",
-    "title": "4Seasons Farm",
-    "telegramLink": "https://t.me/FourSeasonsFarmBot?start=1147265290"
-  },
-  {
-    "id": "mars2049",
-    "title": "Mars2049",
-    "telegramLink": "https://t.me/Mars2049_Bot/Mars2049?startapp=-XesoKQE"
-  },
-  {
-    "id": "voxel",
-    "title": "Voxel",
-    "telegramLink": "https://t.me/voxel_verse_bot/app?startapp=1147265290"
-  },
-  {
-    "id": "unicoin",
-    "title": "Unicoin App",
-    "telegramLink": "https://t.me/UniCoinApp_bot?start=ref_29590283"
-  },
-  {
-    "id": "caps",
-    "title": "Caps",
-    "telegramLink": "https://t.me/DurovCapsBot/caps?startapp=1147265290"
-  },
-  {
-    "id": "boinkers",
-    "title": "Boinkers",
-    "telegramLink": "https://t.me/boinker_bot/boinkapp?startapp=boink1147265290"
+    "id": "gift-fest",
+    "title": "Gift Fest",
+    "telegramLink": "https://t.me/giftfest_bot/app?startapp=UkM9MDAwMDAxRmRvNnMmUlM9aW52aXRlX2ZyaWVuZA%3D%3D"
   },
   {
     "id": "dogs",
@@ -38,25 +13,5 @@
     "id": "tapps",
     "title": "Apps Center",
     "telegramLink": "https://t.me/tapps/app?startapp=ref_1_851090"
-  },
-  {
-    "id": "w-coin",
-    "title": "W-Coin",
-    "telegramLink": "https://t.me/wcoin_tapbot?start=MTE0NzI2NTI5MA=="
-  },
-  {
-    "id": "units",
-    "title": "Units Wallet",
-    "telegramLink": "https://t.me/UnitsWallet_bot/UnitsWallet?startapp=0x48a0C00214b40d95Bb60f2eC8cd8d1e7B5a7b45E"
-  },
-  {
-    "id": "duck-chain",
-    "title": "DuckChain",
-    "telegramLink": "https://t.me/DuckChain_bot/quack?startapp=egJgBrxV"
-  },
-  {
-    "id": "seed",
-    "title": "Seed",
-    "telegramLink": "https://t.me/seed_coin_bot/app?startapp=1147265290"
   }
 ]
